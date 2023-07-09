@@ -2,9 +2,7 @@
 
 A clone of the popular website GMeet which is a video conferencing service from Google.
 
-# Project team
-@ayush2111
-@
+## Project team
 
 # Features
 
