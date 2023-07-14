@@ -15,7 +15,8 @@ A clone of the popular website GMeet which is a video conferencing service from 
 # Prerequisites
 Install node.js in your machine.
 
-# Socket.io
+# Socket.io![Screenshot (98)](https://github.com/ayush2111/Google-Meet-Clone/assets/109381365/e7d5fcc9-f310-40c5-9092-967308a03650)
+
 Socket.io, a popular javascript library is used in this project to facilitate realtime communication. Socket.io allows real-time bi-directional communication between the browser and server.
 
 
