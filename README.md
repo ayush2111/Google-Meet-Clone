@@ -10,7 +10,7 @@ A clone of the popular website GMeet which is a video conferencing service from 
 
 * video conferencing - Users can organize meets where others could join using the meet ID.
 * User authentication using Gmail-id.
-* Chatbox where users can chat with others in meet.
+* Chatbox where users can chat with other attendees in the meeting.
 * Collaborative whiteboard in meet
 
 # Prerequisites
@@ -18,6 +18,6 @@ Install node.js in your machine.
 
 # Socket.io![Screenshot (98)](https://github.com/ayush2111/Google-Meet-Clone/assets/109381365/e7d5fcc9-f310-40c5-9092-967308a03650)
 
-Socket.io, a popular javascript library is used in this project to facilitate realtime communication. Socket.io allows real-time bi-directional communication between the browser and server.
+Socket.io, a popular Javascript library is used in this project to facilitate realtime communication. Socket.io allows real-time bi-directional communication between the browser and server.
 
 
