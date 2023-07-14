@@ -5,7 +5,8 @@ A clone of the popular website GMeet which is a video conferencing service from 
 ## Project team
 @[ayush2111](https://github.com/ayush2111)<br/>
 @[prasad4969](https://github.com/prasad4969)<br/>
-@[Ravi7251](https://github.com/Ravi7251)
+@[Ravi7251](https://github.com/Ravi7251)<br/>
+@[chikki0106](https://github.com/chikki0106)
 # Features
 
 * video conferencing - Users can organize meets where others could join using the meet ID.
