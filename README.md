@@ -36,7 +36,7 @@ A clone of the popular website GMeet which is a video conferencing service from 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/video-conferencing-app.git](https://github.com/ayush2111/Google-Meet-Clone.git
+   git clone https://github.com/ayush2111/Google-Meet-Clone.git
    ```
 2. **Install dependencies:**
     ```bash
@@ -49,6 +49,8 @@ A clone of the popular website GMeet which is a video conferencing service from 
 
 
 ### Demo Video
+
+https://github.com/ayush2111/Google-Meet-Clone/blob/main/GMeetClone
 
 
 
