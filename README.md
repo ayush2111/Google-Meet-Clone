@@ -1,4 +1,4 @@
-# Google-Meet-Clone
+# 🎥 GMeet Clone
 
 A clone of the popular website GMeet which is a video conferencing service from Google.
 
@@ -6,19 +6,49 @@ A clone of the popular website GMeet which is a video conferencing service from 
 @[ayush2111](https://github.com/ayush2111)<br/>
 @[prasad4969](https://github.com/prasad4969)<br/>
 @[Ravi7251](https://github.com/Ravi7251)<br/>
-@[chikki0106](https://github.com/chikki0106)
+
+
 # Features
 
-* video conferencing - Users can organize meets where others could join using the meet ID.
-* User authentication using Gmail-id.
-* Chatbox where users can chat with other attendees in the meeting.
-* Collaborative whiteboard in meet
+- **Real-Time Video and Audio Communication:**
+- **Screen Sharing:**
+- **Secure User Authentication:**
+- **Responsive Design:**
 
-# Prerequisites
-Install node.js in your machine.
+## Tech Stack
 
-# Socket.io![Screenshot (98)](https://github.com/ayush2111/Google-Meet-Clone/assets/109381365/e7d5fcc9-f310-40c5-9092-967308a03650)
+- **Backend:** 
+  - Node.js
+  - Express.js
 
-Socket.io, a popular Javascript library is used in this project to facilitate realtime communication. Socket.io allows real-time bi-directional communication between the browser and server.
+- **Real-Time Communication:** 
+  - Socket.io
+
+- **Authentication:** 
+  - Google API
+  - OAuth 2.0
+
+### Prerequisites
+
+- Node.js
+
+## Installation & Running Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/video-conferencing-app.git](https://github.com/ayush2111/Google-Meet-Clone.git
+   ```
+2. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+3. **Set up environment variables:**
+   ```bash
+   Create a .env file in root directory and add your environment variables
+   ```
+
+
+### Demo Video
+
 
 
