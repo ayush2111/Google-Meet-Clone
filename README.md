@@ -50,7 +50,7 @@ A clone of the popular website GMeet which is a video conferencing service from 
 
 ### Demo Video
 
-![GMeetClone](https://github.com/ayush2111/Google-Meet-Clone/tree/main/GMeetClone)
+https://github.com/user-attachments/assets/56162a62-b034-478e-acfb-a28ef9a265ee
 
 
 
